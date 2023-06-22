@@ -116,7 +116,8 @@ li {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    /*background-color: #222;*/
+    background-color: #001c84;
 }
 
 .navbar-default .navbar-brand {
@@ -125,6 +126,7 @@ li {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
+    /*border-color: rgb(0, 28, 132)*/
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -180,7 +182,8 @@ li {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        /*background-color: #222;*/
+        background-color: #001c84;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
